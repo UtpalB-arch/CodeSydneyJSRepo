@@ -1,2 +1,2 @@
 # CodeSydneyJavaScriptTutorials
-Tutorials activities of Code Sydney JavaScript
+This is about tutorials activities of Code Sydney JavaScript
